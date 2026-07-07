@@ -1,14 +1,14 @@
 # Shipment Tracker - Frontend
 
-![GitHub](https://img.shields.io/github/license/Anuj-er/cargo-tracker-webapp)
+![GitHub](https://img.shields.io/github/license/sandhyaj-er/cargo-tracker-webapp)
 ![React](https://img.shields.io/badge/react-18.x-blue)
 ![Docker](https://img.shields.io/badge/docker-ready-brightgreen)
 
 A modern React application for real-time cargo shipment tracking with interactive maps and comprehensive dashboard. Built as part of the MERN Stack Tracking Assignment.
 
 ## 🔗 Repository Links
-- Frontend: [https://github.com/Anuj-er/cargo-tracker-webapp](https://github.com/Anuj-er/cargo-tracker-webapp)
-- Backend: [https://github.com/Anuj-er/cargo-tracker-backend](https://github.com/Anuj-er/cargo-tracker-backend)
+- Frontend: [https://github.com/Anuj-er/cargo-tracker-webapp](https://github.com/sandhya-er/cargo-tracker-webapp)
+- Backend: [https://github.com/Anuj-er/cargo-tracker-backend](https://github.com/sandhya-er/cargo-tracker-backend)
 
 ## 📋 Assignment Fulfillment
 
